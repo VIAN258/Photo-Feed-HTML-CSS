@@ -1,0 +1,34 @@
+body{
+    background: grey;   
+}
+h1{
+    background: white; 
+    text-align: center;
+    margin: -7px;
+}
+div.box{
+    background: white;   
+}
+div.root{
+    width: 40%;
+    margin:auto;   
+}
+img{
+    width: 100%;
+}
+span{
+    float: right;
+    margin-top: 20px;
+    margin-right: 5px;
+    color: grey
+}
+h2{
+    float: left;
+    margin-left: 5px;
+}
+p{
+    padding-left: 2%;
+    margin-top: 5px;
+}
+
+
